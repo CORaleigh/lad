@@ -6,7 +6,7 @@ categories: jekyll update
 image: snowzaleas.jpg
 description: This is a post. Click to see full content.
 ---
-#### We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to better collaborate and share information across various disciplines. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
+We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to better collaborate and share information across various disciplines. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
 
 - sharing information
 - working together on special projects
