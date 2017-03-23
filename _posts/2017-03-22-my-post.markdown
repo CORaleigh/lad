@@ -6,12 +6,7 @@ categories: jekyll update
 image: snowzaleas.jpg
 description: This is the first Demo post. Click to see full content.
 ---
-### lad
- Lead Application Developers
-===
-
-
-lad is a team of lead application developers within the City of Raleigh IT department. This team was formed to harness the skillsets of each individual in a more collaborative and cross discipline way. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
+#### We are a team of lead application developers within the City of Raleigh IT department. This team was formed to harness the skillsets of each individual in a more collaborative and cross discipline way. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
 
 - sharing information
 - working together on special projects
