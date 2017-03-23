@@ -10,7 +10,7 @@ We represent the City of Raleigh's IT department. We focus on harnessing the ski
   
     
       
-      
+
 
 
 ##### Focus Areas
@@ -18,7 +18,7 @@ We represent the City of Raleigh's IT department. We focus on harnessing the ski
 - working together on special projects
 - standardizing processes
 
-The team meets bi-weekly for minimum of 30 minutes. Each meeting has an agenda which is stored in github [here](http://github.com).
+The team meets bi-weekly for minimum of 30 minutes. Each meeting has an agenda which is stored [here](http://github.com).
 
 
 ##### Tools and tracking
