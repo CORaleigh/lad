@@ -6,9 +6,9 @@ categories: jekyll update
 image: snowzaleas.jpg
 description: This is a post. Click to see full content.
 ---
-We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to better collaborate and share information across various disciplines. The goal of this team is to make tangible improvements to benefit the IT organization and the customers we serve.
+We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to share information across various disciplines. The goal of this team is to make tangible improvements to the IT organization and to benefit the customers we serve.
 
-### Focus Areas
+## Focus Areas
 - sharing information
 - working together on special projects
 - standardizing processes
@@ -16,7 +16,7 @@ We represent the City of Raleigh's IT department. We focus on harnessing the ski
 The team meets bi-weekly for minimum of 30 minutes. Each meeting has an agenda which is stored in github [here](http://github.com).
 
 
-### tools and tracking
+## tools and tracking
 - github
 - service now visual task boards ([Kanban](https://en.wikipedia.org/wiki/Kanban_board))
 - meeting minutes will be stored on github by date
