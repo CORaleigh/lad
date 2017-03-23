@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "About Us"
-date:   2015-10-23 17:40:06
+date:   2017-03-23 17:40:06
 categories: jekyll update
 image: snowzaleas.jpg
-description: This is the first Demo post. Click to see full content.
+description: This is a post. Click to see full content.
 ---
-#### We are a team of lead application developers within the City of Raleigh IT department. This team was formed to harness the skillsets of each individual in a more collaborative and cross discipline way. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
+#### We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to better collaborate and share information across various disciplines. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
 
 - sharing information
 - working together on special projects
