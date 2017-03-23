@@ -6,24 +6,24 @@ categories: jekyll update
 image: snowzaleas.jpg
 description: This is the first Demo post. Click to see full content.
 ---
-# Jekyll Smart Material
-
-Slick Material Design theme for [Jekyll](https://jekyllrb.com/) powered by [Material Design Lite v.1.2.1](https://getmdl.io/components/index.html).
-
-## Live demo
-
-[https://ssokurenko.github.io/jekyll-smart-material](https://ssokurenko.github.io/jekyll-smart-material/)
-
-![screenshot](screenshot.png)
+### lad
+ Lead Application Developers
+===
 
 
-## Local deployment for development and testing
+lad is a team of lead application developers within the City of Raleigh IT department. This team was formed to harness the skillsets of each individual in a more collaborative and cross discipline way. The goal of this team is to make tangible improvements to benefit the IT organization and the customers it serves. The focus areas to accomplish this are:
 
-Fork or clone the project: `https://github.com/ssokurenko/jekyll-smart-material.git`
+- sharing information
+- working together on special projects
+- standardizing processes
 
-Install Jekyll: `sudo gem install jekyll`
+The team meets bi-weekly for minimum of 30 minutes. Each meeting has an agenda which is stored in github [here](http://github.com).
 
-Open the project folder: `cd jekyll-smart-material`
 
-Run local Jekyll server: `jekyll serve`, it will be available at: [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+### tools and tracking
+- github
+- service now visual task boards ([Kanban](https://en.wikipedia.org/wiki/Kanban_board))
+- meeting minutes will be stored on github by date
+- document artifacts will also be stored [here](http://github.com)
 
+### artifacts
