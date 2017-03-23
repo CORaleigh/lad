@@ -7,7 +7,10 @@ image: snowzaleas.jpg
 description: This is a post. Click to see full content.
 ---
 We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to share information across various disciplines. The goal of this team is to make tangible improvements to the IT organization and to benefit the customers we serve.  
-
+  
+    
+      
+      
 
 
 ##### Focus Areas
