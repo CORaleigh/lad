@@ -13,7 +13,7 @@ We represent the City of Raleigh's IT department. We focus on harnessing the ski
 
 
 
-##### Focus Areas
+##### Focus Areas for the team
 - sharing information
 - working together on special projects
 - standardizing processes
