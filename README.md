@@ -1,20 +1,16 @@
-# Jekyll Smart Material
+We represent the City of Raleigh's IT department. We focus on harnessing the skillsets of each individual in order to share information across various disciplines. The goal of this team is to make tangible improvements to the IT organization and to benefit the customers we serve.  
 
-Slick Material Design theme for [Jekyll](https://jekyllrb.com/) powered by [Material Design Lite v.1.2.1](https://getmdl.io/components/index.html).
+##### Focus Areas for the team
+- sharing information
+- working together on special projects
+- standardizing processes
 
-## Live demo
+The team meets bi-weekly for minimum of 30 minutes. Each meeting has an agenda which is stored [here](http://github.com).
 
-[https://ssokurenko.github.io/jekyll-smart-material](https://ssokurenko.github.io/jekyll-smart-material/)
+##### Tools and tracking
+- github
+- service now visual task boards ([Kanban](https://en.wikipedia.org/wiki/Kanban_board))
+- meeting minutes will be stored on github by date
+- document artifacts will also be stored [here](http://github.com)
 
-![screenshot](screenshot.png)
-
-
-## Local deployment for development and testing
-
-Fork or clone the project: `https://github.com/ssokurenko/jekyll-smart-material.git`
-
-Install Jekyll: `sudo gem install jekyll`
-
-Open the project folder: `cd jekyll-smart-material`
-
-Run local Jekyll server: `jekyll serve`, it will be available at: [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+##### Artifacts
